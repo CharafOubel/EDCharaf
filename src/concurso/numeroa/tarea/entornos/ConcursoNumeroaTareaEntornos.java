@@ -41,7 +41,7 @@ public class ConcursoNumeroaTareaEntornos
 
         /* CON ESTA FUNCION GENERAMOS LAS */
         /**
-         * generarPregunta : With this function generate the expression randomly
+         * generarPregunta : With this function we generate the expression randomly
          * and ask the players
          */
         generarPregunta();
